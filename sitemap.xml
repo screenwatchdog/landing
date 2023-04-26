@@ -2,15 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/apple-macos-app/</loc>
+    <lastmod>2023-04-26T13:06:38+08:00</lastmod>
+  </url><url>
+    <loc>/tags/appstore/</loc>
+    <lastmod>2023-04-26T13:06:38+08:00</lastmod>
+  </url><url>
+    <loc>/tags/macos/</loc>
+    <lastmod>2023-04-26T13:06:38+08:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2023-04-26T13:06:38+08:00</lastmod>
+  </url><url>
+    <loc>/tags/release/</loc>
+    <lastmod>2023-04-26T13:06:38+08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-04-26T13:06:38+08:00</lastmod>
+  </url><url>
+    <loc>/posts/screenwatchdog_1.11/</loc>
+    <lastmod>2023-04-26T13:06:38+08:00</lastmod>
+  </url><url>
+    <loc>/tags/screenwatchdog/</loc>
+    <lastmod>2023-04-26T13:06:38+08:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-04-26T13:06:38+08:00</lastmod>
+  </url><url>
+    <loc>/tags/v1.11/</loc>
+    <lastmod>2023-04-26T13:06:38+08:00</lastmod>
+  </url><url>
     <loc>/about/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/privacy/</loc>
-  </url><url>
-    <loc>/</loc>
-  </url><url>
-    <loc>/tags/</loc>
   </url><url>
     <loc>/terms/</loc>
   </url>
