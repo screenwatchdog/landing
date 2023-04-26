@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Screen Watch Dog / alerts you when your screen changes</title>
+    <link>/</link>
+    <description>Recent content on Screen Watch Dog / alerts you when your screen changes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Dmytro Chernenko</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Screen Watch Dog</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This little application will help you to monitor your screen while you are not looking at it.
+Here is how you can use it:
+1. Move main Application window to the screen you wish to monitor. 2. Press button &amp;#39;Select watch bounds&amp;#39;. 3. Press the and hold left mouse button. 4. Draw a rectangle across your area of interest. 5. Release left mouse button. 6. Application will monitor changes that happened in the selected area.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/privacy/</guid>
+      <description>ScreenWatchDog doesn&amp;rsquo;t use data that you provide for any other reason than sending notifications about activity on the selected section of the screen. Image processing and comparsion is done on the fly inside Application running process. Nothing is shared or distributed outside Applciation.</description>
+    </item>
+    
+    <item>
+      <title>Terms of Service</title>
+      <link>/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/terms/</guid>
+      <description>Please read these Terms and Conditions (“Terms”, “Terms and Conditions”) carefully before using the ScreenWatchDog application (the “Service”) operated by Dmytro Chernenko (“us”, “we”, or “our”).
+Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
+By accessing or using the Service you agree to be bound by these Terms.</description>
+    </item>
+    
+  </channel>
+</rss>
