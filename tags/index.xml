@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Dmytro Chernenko</copyright>
-    <lastBuildDate>Wed, 26 Apr 2023 13:06:38 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 May 2023 23:06:38 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apple macOS App</title>
       <link>/tags/apple-macos-app/</link>
-      <pubDate>Wed, 26 Apr 2023 13:06:38 +0800</pubDate>
+      <pubDate>Mon, 08 May 2023 23:06:38 +0800</pubDate>
       
       <guid>/tags/apple-macos-app/</guid>
       <description></description>
@@ -20,7 +20,7 @@
     <item>
       <title>Appstore</title>
       <link>/tags/appstore/</link>
-      <pubDate>Wed, 26 Apr 2023 13:06:38 +0800</pubDate>
+      <pubDate>Mon, 08 May 2023 23:06:38 +0800</pubDate>
       
       <guid>/tags/appstore/</guid>
       <description></description>
@@ -29,7 +29,7 @@
     <item>
       <title>macOS</title>
       <link>/tags/macos/</link>
-      <pubDate>Wed, 26 Apr 2023 13:06:38 +0800</pubDate>
+      <pubDate>Mon, 08 May 2023 23:06:38 +0800</pubDate>
       
       <guid>/tags/macos/</guid>
       <description></description>
@@ -38,7 +38,7 @@
     <item>
       <title>Release</title>
       <link>/tags/release/</link>
-      <pubDate>Wed, 26 Apr 2023 13:06:38 +0800</pubDate>
+      <pubDate>Mon, 08 May 2023 23:06:38 +0800</pubDate>
       
       <guid>/tags/release/</guid>
       <description></description>
@@ -47,9 +47,18 @@
     <item>
       <title>ScreenWatchDog</title>
       <link>/tags/screenwatchdog/</link>
-      <pubDate>Wed, 26 Apr 2023 13:06:38 +0800</pubDate>
+      <pubDate>Mon, 08 May 2023 23:06:38 +0800</pubDate>
       
       <guid>/tags/screenwatchdog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>v1.14</title>
+      <link>/tags/v1.14/</link>
+      <pubDate>Mon, 08 May 2023 23:06:38 +0800</pubDate>
+      
+      <guid>/tags/v1.14/</guid>
       <description></description>
     </item>
     
